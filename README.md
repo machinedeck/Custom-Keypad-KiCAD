@@ -16,7 +16,7 @@ Steps for PCB design in KiCAD:
 - For the actual PCB design **(PCB Editor)**
   - Define the board, connections, etc.
 
-For more details, go to this link: [https://www.youtube.com/watch?v=3FGNw28xBr0](https://www.youtube.com/watch?v=3FGNw28xBr0)
+I used this link to learn about the process: [https://www.youtube.com/watch?v=3FGNw28xBr0](https://www.youtube.com/watch?v=3FGNw28xBr0)
 
 ## Things to learn more:
 PCB connections
