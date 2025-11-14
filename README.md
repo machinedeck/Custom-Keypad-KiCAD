@@ -1,7 +1,7 @@
 # Keypad KICAD PCB Design Practice
 _Images are not necessarily correct but only detail the current progress of the work._
 <p align = "center"><img src = "images/keypad_kicad_trial.png"></p>
-<p align = "center"><img src = "images/keypad_kicad_pcb_design.png"></p>
+
 <p align = "center"><img src = "images/keypad_kicad_circuit.png"></p>
 
 Steps for PCB design in KiCAD:
